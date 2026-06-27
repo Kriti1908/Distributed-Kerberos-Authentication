@@ -1,0 +1,15 @@
+[TGS2] Loaded 4 services.
+[TGS2] Listening on port 8512
+[TGS2] keyVersion=20
+[TGS2] TGS_REQ from alice for service fileserver
+[TGS2] TGT keyVersion read=20
+[TGS2] TGS_RESP sent to alice
+[TGS2] TGS_REQ from alice for service fileserver
+[TGS2] TGT keyVersion read=20
+[TGS2] TGS_RESP sent to alice
+[TGS2] TGS_REQ from alice for service fileserver
+[TGS2] TGT keyVersion read=20
+[TGS2] TGS_RESP sent to alice
+[TGS2] TGS_REQ from alice for service fileserver
+[TGS2] TGT keyVersion read=20
+[TGS2] TGS_RESP sent to alice

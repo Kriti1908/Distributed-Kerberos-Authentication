@@ -1,0 +1,183 @@
+[TGS1] Loaded 4 services.
+[TGS1] Listening on port 8811
+[TGS1] keyVersion=22
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice
+[TGS1] TGS_REQ from alice for service fileserver
+[TGS1] TGT keyVersion read=22
+[TGS1] TGS_RESP sent to alice

@@ -1,0 +1,17 @@
+
+=== Phase 1: AS Exchange (get TGT) ===
+[Client] Got AUTH_RESP from AS1 (keyVer=23)
+[Client] Got AUTH_RESP from AS2 (keyVer=23)
+[Client] Got AUTH_RESP from AS3 (keyVer=23)
+[Client] TGT threshold signature VERIFIED.
+[Client] TGT session key decrypted.
+[Client] TGT assembled.
+[Client] TGT keyVersion=23
+
+=== Phase 2: TGS Exchange (get Service Ticket) ===
+[Client] TGS1 rejected: ?
+[Client] TGS2 unreachable.
+[Client] TGS3 rejected: ?
+[Client] Need at least 2 TGS responses
+
+[Client] Authentication FAILED

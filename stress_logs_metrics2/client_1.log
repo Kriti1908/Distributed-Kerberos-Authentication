@@ -1,0 +1,22 @@
+
+=== Phase 1: AS Exchange (get TGT) ===
+[Client] Got AUTH_RESP from AS1 (keyVer=20)
+[Client] Got AUTH_RESP from AS2 (keyVer=20)
+[Client] Got AUTH_RESP from AS3 (keyVer=20)
+[Client] TGT threshold signature VERIFIED.
+[Client] TGT session key decrypted.
+[Client] TGT assembled.
+[Client] TGT keyVersion=20
+
+=== Phase 2: TGS Exchange (get Service Ticket) ===
+[Client] Got TGS_RESP from TGS1
+[Client] Got TGS_RESP from TGS2
+[Client] Got TGS_RESP from TGS3
+[Client] Service ticket threshold signature VERIFIED.
+[Client] Service session key decrypted.
+[Client] Service ticket assembled.
+
+=== Phase 3: Service Authentication ===
+[Client] Service says: Access granted. Session established.
+
+[Client] Authentication SUCCEEDED

@@ -1,0 +1,17 @@
+[KeyGen] Generating Schnorr parameters (this may take a moment)...
+[KeyGen] Parameters generated.
+  q bits: 256
+  p bits: 512
+[KeyGen] Saved: config/params.txt
+[KeyGen] Saved: config/as_share_1.txt
+[KeyGen] Saved: config/as_share_2.txt
+[KeyGen] Saved: config/as_share_3.txt
+[KeyGen] Saved: config/tgs_share_1.txt
+[KeyGen] Saved: config/tgs_share_2.txt
+[KeyGen] Saved: config/tgs_share_3.txt
+[KeyGen] Key version: 19
+[KeyGen] Saved: config/as_server_key.bin
+[KeyGen] Saved: config/tgs_server_key.bin
+[KeyGen] Setup complete.
+[KeyGen] Running self-test...
+[KeyGen] Independent Schnorr self-test: PASSED

@@ -1,0 +1,11 @@
+clients=4
+parallel=2
+success=4
+fail=0
+success_rate_pct=100.00
+total_runtime_ms=5908
+throughput_auth_per_sec=0.68
+latency_mean_ms=2829.75
+latency_p50_ms=2879
+latency_p95_ms=2980
+latency_p99_ms=2980
